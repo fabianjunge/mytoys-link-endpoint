@@ -10,7 +10,7 @@ I extracted all links of the tree-ish structure into a list and added correspond
 Next I implemented the sort and parent-filter function.
 
 In retrospection a lot of time was used to get into Kotlin, but it was very interesting!
-The code has definitely some points where I don't use Kotlin language features. 
+Maybe I missed some Kotlin language features in this project.
 
 ## Run endpoint with docker
 
